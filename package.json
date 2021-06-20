@@ -1,7 +1,7 @@
 {
   "name": "definixswap-sdk",
   "license": "MIT",
-  "version": "0.0.10-klaytn",
+  "version": "0.0.20-klaytn",
   "description": "🛠 An SDK for building applications on top of definixswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

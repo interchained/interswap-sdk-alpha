@@ -66,7 +66,7 @@ export const WETH = {
   ),
   [ChainId.BAOBABTESTNET]: new Token(
     ChainId.BAOBABTESTNET,
-    '0xFDEa9568DFE062F9ACF5E37c584fC73eB2835F25',
+    '0xf223E26B018AE1917E84DD73b515620e36a75596',
     18,
     'WKLAY',
     'Wrapped KLAY'
